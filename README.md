@@ -1,15 +1,14 @@
-# Docker-Fundamentals-Course
+# Introduction To Docker Containers The Basics
 
-Comprehensive learning resources and implementation examples for mastering Docker containerization. Based on the [Docker Fundamentals course on Coursera](https://www.coursera.org/learn/docker-fundamentals).
+Core concepts and hands-on notes for Docker containerization.
 
-## ┬┐ Key Concepts Covered
-- **Containerization vs. Virtualization**: Understanding the core architecture.
-- **Image Management**: Building, tagging, and managing Docker images.
-- **Docker Compose**: Orchestrating multi-container applications.
-- **Networking & Storage**: Configuring persistent volumes and internal networks.
+## Features
+- Course notes and highlights
+- Programming assignment solutions
+- Conceptual frameworks
 
-## ┬┐ Usage
-Refer to the provided configuration files and documentation to build and deploy sample containers.
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
